@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Sony AK.
+### I am Sony AK.
 
 Full-Stack Engineer living in Jakarta. Member of Technical Staff.
 
