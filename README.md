@@ -1,3 +1,3 @@
-Full-Stack Engineer living in Jakarta. Member of Technical Staff.
+Principal Full-Stack Engineer living in Jakarta. Member of Technical Staff.
 
 sony@sony-ak.com
