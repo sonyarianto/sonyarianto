@@ -1,6 +1,6 @@
 Principal Full-Stack Engineer. System Integrator. Member of Technical Staff.
 
-Keep learning and stay relevant. Relevancy increases value.
+Keep learning, stay relevant, relevancy increases value.
 
 --<br>
 Best regards,<br>
