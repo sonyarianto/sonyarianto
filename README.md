@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=sonyarianto&color=blueviolet&style=flat)
+
 Principal Full-Stack Engineer. System Integrator. Member of Technical Staff.
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
