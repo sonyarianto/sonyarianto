@@ -7,6 +7,12 @@
 <a href="https://github.com/sponsor/sonyarianto" target="_blank">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/sonyarianto">
 </a>
+<a href="https://youtube.com/@bljdev" target="_blank">
+  <img alt="BLJ" src="https://img.shields.io/youtube/channel/views/UCTgD0-13PPQux8zZ6UQTYLA?style=social">
+</a>
+<a href="https://youtube.com/@adayangtanya" target="_blank">
+  <img alt="ada yang tanya" src="https://img.shields.io/youtube/channel/views/UCD5gydSn9mTyZruSR0Filvw?style=social">
+</a>
 <br/><br/>
 
 Principal Full-Stack Engineer. System Integrator. Member of Technical Staff.
