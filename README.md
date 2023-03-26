@@ -23,7 +23,7 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 #### Open Source
 
 | Name | Type | Notes |
-| - |:-:|:-:|
+|:-|:-|:-|
 | <a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a> | npm | <img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/> |
 | <a href="https://github.com/sonyarianto/doitsu" target="_blank">Doitsu</a> | php | <img align="left" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sonyarianto/doitsu"> |
 
