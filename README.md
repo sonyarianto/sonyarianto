@@ -4,7 +4,7 @@
 <a href="https://discord.com/channels/1089563520988893306/1089563522100375604" target="_blank">
   <img alt="Discord" src="https://img.shields.io/discord/1089563520988893306">
 </a>
-<a href="https://github.com/sponsor/sonyarianto" target="_blank">
+<a href="https://github.com/sponsors/sonyarianto" target="_blank">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/sonyarianto">
 </a>
 <a href="https://youtube.com/@bljdev" target="_blank">
