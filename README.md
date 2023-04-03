@@ -25,7 +25,7 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 | Name | Type | Notes | Install |
 |:-|:-|:-|:-|
 | <a href="https://github.com/sonyarianto/doitsu" target="_blank">Doitsu</a> | php | <a href="https://github.com/sonyarianto/doitsu" target="_blank"><img align="left" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sonyarianto/doitsu"></a> ||
-| <a href="https://npmjs.com/package/jogja" target="_blank">Jogja</a> | npm | <a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a> | `npm i -g jogja` |
+| <a href="https://npmjs.com/package/jogja" target="_blank">jogja</a> | npm | <a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a> | `npm i -g jogja` |
 | <a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a> | npm | <a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a> | `npm i -g sshmgr` |
 
 
