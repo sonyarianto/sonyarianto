@@ -41,6 +41,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/graphql-nodejs-concept" target="_blank">GraphQL with Node.js and GraphQL Yoga</a> | GraphQL |
 | <a href="https://github.com/sonyarianto/pocketbase-docker" target="_blank">Dockerizing Pocketbase</a> | Pocketbase |
 | <a href="https://github.com/sonyarianto/airmill-dashboard" target="_blank">Porting Windmill Dashboard HTML into SvelteKit Project</a> | SvelteKit |
+| <a href="https://github.com/sonyarianto/hcli" target="_blank">Simple CLI in Go to Get List of Installed App Version</a> | Go |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
