@@ -22,6 +22,8 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 
 #### Open Source
 
+Some open source initiative from me.
+
 | Name | Type | Notes | Install |
 |:-|:-|:-|:-|
 | <a href="https://github.com/sonyarianto/doitsu" target="_blank">doitsu</a> | php | <a href="https://github.com/sonyarianto/doitsu" target="_blank"><img align="left" alt="GitHub last commit" src="https://img.shields.io/github/last-commit/sonyarianto/doitsu"></a> ||
@@ -30,6 +32,8 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 | <a href="https://npmjs.com/package/dauh" target="_blank">dauh</a> | npm | <a href="https://npmjs.com/package/dauh" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/dauh" alt=""/></a> | `npm i -g dauh` |
 
 #### Educational Material
+
+Good for inspiration and ready to extend to fit your needs.
 
 | Title | Topic |
 |:-|:-|
