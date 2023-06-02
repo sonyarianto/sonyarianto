@@ -45,7 +45,7 @@ Good for inspiration and ready to extend to fit your needs.
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
 
-Support me to develop more open source software through:
+Support me to develop more open source software or educational material through:
 
 - GitHub Sponsor https://github.com/sponsors/sonyarianto
 - PayPal https://paypal.me/sonyarianto
