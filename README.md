@@ -29,6 +29,11 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 | <a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a> | npm | <a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a> | `npm i -g sshmgr` |
 | <a href="https://npmjs.com/package/dauh" target="_blank">dauh</a> | npm | <a href="https://npmjs.com/package/dauh" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/dauh" alt=""/></a> | `npm i -g dauh` |
 
+#### Educational Material
+
+| Title | Topic |
+|:-|:-|
+| <a href="https://github.com/sonyarianto/doitsu" target="_blank">React without Build Steps</a> | React |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
