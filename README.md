@@ -35,6 +35,8 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 |:-|:-|
 | <a href="https://github.com/sonyarianto/react-without-buildsteps" target="_blank">React without Build Steps</a> | React |
 | <a href="https://github.com/sonyarianto/graphql-nodejs-concept" target="_blank">GraphQL with Node.js and GraphQL Yoga</a> | GraphQL |
+| <a href="https://github.com/sonyarianto/pocketbase-docker" target="_blank">Dockerizing Pocketbase</a> | Pocketbase |
+| <a href="https://github.com/sonyarianto/airmill-dashboard" target="_blank">https://github.com/sonyarianto/airmill-dashboard</a> | SvelteKit |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
