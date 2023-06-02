@@ -34,7 +34,7 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 | Title | Topic |
 |:-|:-|
 | <a href="https://github.com/sonyarianto/react-without-buildsteps" target="_blank">React without Build Steps</a> | React |
-| <a href="https://github.com/sonyarianto/graphql-nodejs-concept" target="_blank">https://github.com/sonyarianto/graphql-nodejs-concept</a> | GraphQL |
+| <a href="https://github.com/sonyarianto/graphql-nodejs-concept" target="_blank">Sample of GraphQL with Node.js and GraphQL Yoga</a> | GraphQL |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
