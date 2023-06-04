@@ -42,7 +42,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/pocketbase-docker" target="_blank">Dockerizing Pocketbase</a> | Pocketbase |
 | <a href="https://github.com/sonyarianto/airmill-dashboard" target="_blank">Porting Windmill Dashboard HTML into SvelteKit Project</a> | JavaScript, SvelteKit |
 | <a href="https://github.com/sonyarianto/hcli" target="_blank">Simple CLI in Go to Get List of Installed App Version</a> | Go |
-| <a href="https://github.com/sonyarianto/php-mini-framework" target="_blank">Mini PHP Framework with Symfony Routing and Blade Template</a> | PHP |
+| <a href="https://github.com/sonyarianto/php-mini-framework" target="_blank">Mini PHP Framework with Symfony Routing and Blade Template</a> | PHP, Symfony, Blade |
 | <a href="https://github.com/sonyarianto/php-using-blade-without-laravel" target="_blank">Using Blade Template without Laravel in PHP</a> | PHP, Blade |
 
 #### Stats
