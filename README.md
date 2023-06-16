@@ -44,6 +44,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/hcli" target="_blank">Simple CLI in Go to Get List of Installed App Version</a> | Go |
 | <a href="https://github.com/sonyarianto/php-mini-framework" target="_blank">Mini PHP Framework with Symfony Routing and Blade Template</a> | PHP, Symfony, Blade |
 | <a href="https://github.com/sonyarianto/php-using-blade-without-laravel" target="_blank">Using Blade Template without Laravel in PHP</a> | PHP, Blade |
+| <a href="https://github.com/sonyarianto/redux-without-buildsteps" target="_blank">Using Redux without Build Steps</a> | Redux, JavaScript, React |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
