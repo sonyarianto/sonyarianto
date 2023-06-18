@@ -45,7 +45,8 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/php-mini-framework" target="_blank">Mini PHP Framework with Symfony Routing and Blade Template</a> | PHP, Symfony, Blade |
 | <a href="https://github.com/sonyarianto/php-using-blade-without-laravel" target="_blank">Using Blade Template without Laravel in PHP</a> | PHP, Blade |
 | <a href="https://github.com/sonyarianto/redux-without-buildsteps" target="_blank">Using Redux without Build Steps</a> | Redux, JavaScript, React |
-| <a href="https://github.com/sonyarianto/redux-with-sveltekit" target="_blank">Using Redux with SvelteKit</a> | Redux, JavaScript, Svelte, SvelteKit |
+| <a href="https://github.com/sonyarianto/redux-with-sveltekit" target="_blank">Using Redux with SvelteKit</a> | Redux, JavaScript, SvelteKit |
+| <a href="https://github.com/sonyarianto/redux-with-svelte" target="_blank">Using Redux with Svelte</a> | Redux, JavaScript, Svelte |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
