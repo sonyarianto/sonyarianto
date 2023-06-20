@@ -47,6 +47,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/redux-without-buildsteps" target="_blank">Using Redux without Build Steps</a> | Redux, JavaScript, React |
 | <a href="https://github.com/sonyarianto/redux-with-sveltekit" target="_blank">Using Redux with SvelteKit</a> | Redux, JavaScript, SvelteKit |
 | <a href="https://github.com/sonyarianto/redux-with-svelte" target="_blank">Using Redux with Svelte</a> | Redux, JavaScript, Svelte |
+| <a href="https://svelte.dev/repl/778d2aab2e1e462d9da6f7cc3c7b62bb?version=3.59.1" target="_blank">Redux with Svelte is Very Simple than React</a> | Redux, JavaScript, Svelte |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
