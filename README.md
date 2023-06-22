@@ -50,8 +50,8 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/778d2aab2e1e462d9da6f7cc3c7b62bb?version=3.59.1" target="_blank">Redux with Svelte is Very Simple than React (on Svelte REPL)</a> | Redux, JavaScript, Svelte |
 | <a href="https://github.com/sonyarianto/docker-mysql-adminer-phpmyadmin" target="_blank">Docker for MySQL, Adminer and phpMyAdmin</a> | Docker, MySQL, phpMyAdmin |
 | <a href="https://github.com/sonyarianto/github-actions-push-and-display-it-on-readme" target="_blank">Simple GitHub Actions Demo (on push display file content on README.md)</a> | GitHub Actions |
-| <a href="https://svelte.dev/repl/a083e41efafc4a41a7002398f9ed8f2a?version=3.59.2" target="_blank">Demo of MS FluentUI 2 Web Components (on Svelte REPL)</a> | Web Components, JavaScript |
-| <a href="https://github.com/sonyarianto/fluent-ui-mix-match-with-tailwind-css" target="_blank">Mix match MS FluentUI 2 Web Components with Tailwind CSS without Conflict</a> | Web Components, Tailwind CSS | 
+| <a href="https://svelte.dev/repl/a083e41efafc4a41a7002398f9ed8f2a?version=3.59.2" target="_blank">Demo of MS Fluent UI 2 Web Components (on Svelte REPL)</a> | Web Components, JavaScript |
+| <a href="https://github.com/sonyarianto/fluent-ui-mix-match-with-tailwind-css" target="_blank">Mix match MS Fluent UI 2 Web Components with Tailwind CSS without Conflict</a> | Web Components, Tailwind CSS | 
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
