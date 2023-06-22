@@ -53,6 +53,11 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/a083e41efafc4a41a7002398f9ed8f2a?version=3.59.2" target="_blank">Demo of MS Fluent UI 2 Web Components (on Svelte REPL)</a> | Web Components, JavaScript |
 | <a href="https://github.com/sonyarianto/fluent-ui-mix-match-with-tailwind-css" target="_blank">Mix match MS Fluent UI 2 Web Components with Tailwind CSS without Conflict</a> | Web Components, Tailwind CSS | 
 
+| YouTube | Topic |
+|:-|:-|
+| <a href="https://youtube.com/@bljdev">BLJ</a> | Silent mode, In english, various topics, mostly in simple things |
+| <a href="https://youtube.com/@adayangtanya">ada yang tanya</a> | In Bahasa Indonesia, various topics, mostly in simple things |
+
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
 
