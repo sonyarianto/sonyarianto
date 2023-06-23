@@ -55,7 +55,7 @@ Good for inspiration and ready to extend to fit your needs.
 
 | YouTube | Topic |
 |:-|:-|
-| <a href="https://youtube.com/@bljdev">BLJ</a> | Silent mode, In english, various topics, mostly in simple things |
+| <a href="https://youtube.com/@bljdev">BLJ</a> | In english, various topics, mostly in simple things |
 | <a href="https://youtube.com/@adayangtanya">ada yang tanya</a> | In Bahasa Indonesia, various topics, mostly in simple things |
 
 #### Stats
