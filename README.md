@@ -56,7 +56,8 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/385110a54cc34e5ba86cad2eeb18f7b8" target="_blank">Svelte: Demo Panel with Draggable Separator</a> | Svelte, Layout |
 | <a href="https://stackblitz.com/edit/panel-with-draggable-separator" target="_blank">Vanilla: Demo Panel with Draggable Separator</a> | HTML, Layout |
 | <a href="https://stackblitz.com/edit/svelte-navigate-between-component" target="_blank">Svelte: Demo of Navigate between Component</a> | Svelte |
-| <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple demo of intro and outro in @clack/prompts</a> | CLI, Node |
+| <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple demo of intro and outro in @clack/prompts</a> | CLI, Node.js |
+| <a href="https://stackblitz.com/edit/node-get-version" target="_blank">Get Node.js Version</a> | Node.js |
 
 | YouTube | Topic |
 |:-|:-|
