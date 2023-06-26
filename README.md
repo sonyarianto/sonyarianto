@@ -53,6 +53,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/a083e41efafc4a41a7002398f9ed8f2a" target="_blank">Demo of MS Fluent UI 2 Web Components (on Svelte REPL)</a> | Web Components, JavaScript |
 | <a href="https://github.com/sonyarianto/fluent-ui-mix-match-with-tailwind-css" target="_blank">Mix match MS Fluent UI 2 Web Components with Tailwind CSS without Conflict</a> | Web Components, Tailwind CSS |
 | <a href="https://svelte.dev/repl/317e16c270b84d2dba580f8a19445c92" target="_blank">Svelte: Fluent UI 2 TreeView Web Components Demo with Dynamic Data (single root)</a> | Web Components, Svelte |
+| <a href="https://svelte.dev/repl/385110a54cc34e5ba86cad2eeb18f7b8" target="_blank">Svelte: Demo panel with draggable separator (nice for many purpose)</a> | Svelte, Layout |
 
 | YouTube | Topic |
 |:-|:-|
