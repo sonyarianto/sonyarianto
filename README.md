@@ -58,6 +58,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://stackblitz.com/edit/svelte-navigate-between-component" target="_blank">Svelte: Demo of Navigate between Component</a> | Svelte |
 | <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple demo of intro and outro in @clack/prompts</a> | CLI, Node.js |
 | <a href="https://stackblitz.com/edit/node-get-version" target="_blank">Get Node.js Version</a> | Node.js |
+| <a href="https://stackblitz.com/edit/alpinejs-demo-store-reactivity" target="_blank">Alpine.js: Quick Demo of Store and Reactivity (using ESM import)</a> | Alpine.js |
 
 | YouTube | Topic |
 |:-|:-|
