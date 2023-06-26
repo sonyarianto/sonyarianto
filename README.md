@@ -50,15 +50,15 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/778d2aab2e1e462d9da6f7cc3c7b62bb" target="_blank">Redux with Svelte is Very Simple than React (on Svelte REPL)</a> | Redux, JavaScript, Svelte |
 | <a href="https://github.com/sonyarianto/docker-mysql-adminer-phpmyadmin" target="_blank">Docker for MySQL, Adminer and phpMyAdmin</a> | Docker, MySQL, phpMyAdmin |
 | <a href="https://github.com/sonyarianto/github-actions-push-and-display-it-on-readme" target="_blank">Simple GitHub Actions Demo (on push display file content on README.md)</a> | GitHub Actions |
-| <a href="https://svelte.dev/repl/a083e41efafc4a41a7002398f9ed8f2a" target="_blank">Demo of MS Fluent UI 2 Web Components (on Svelte REPL)</a> | Web Components, JavaScript |
+| <a href="https://svelte.dev/repl/a083e41efafc4a41a7002398f9ed8f2a" target="_blank">Sample of MS Fluent UI 2 Web Components (on Svelte REPL)</a> | Web Components, JavaScript |
 | <a href="https://github.com/sonyarianto/fluent-ui-mix-match-with-tailwind-css" target="_blank">Mix match MS Fluent UI 2 Web Components with Tailwind CSS without Conflict</a> | Web Components, Tailwind CSS |
-| <a href="https://svelte.dev/repl/317e16c270b84d2dba580f8a19445c92" target="_blank">Svelte: Fluent UI 2 TreeView Web Components Demo with Dynamic Data (single root)</a> | Web Components, Svelte |
-| <a href="https://svelte.dev/repl/385110a54cc34e5ba86cad2eeb18f7b8" target="_blank">Svelte: Demo Panel with Draggable Separator</a> | Svelte, Layout |
-| <a href="https://stackblitz.com/edit/panel-with-draggable-separator" target="_blank">Vanilla: Demo Panel with Draggable Separator</a> | HTML, Layout |
-| <a href="https://stackblitz.com/edit/svelte-navigate-between-component" target="_blank">Svelte: Demo of Navigate between Component</a> | Svelte |
-| <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple demo of intro and outro in @clack/prompts</a> | CLI, Node.js |
-| <a href="https://stackblitz.com/edit/node-get-version" target="_blank">Get Node.js Version</a> | Node.js |
-| <a href="https://stackblitz.com/edit/alpinejs-demo-store-reactivity" target="_blank">Alpine.js: Quick Demo of Store and Reactivity (using ESM import)</a> | Alpine.js |
+| <a href="https://svelte.dev/repl/317e16c270b84d2dba580f8a19445c92" target="_blank">Svelte: Fluent UI 2 TreeView Web Components Sample with Dynamic Data (single root)</a> | Web Components, Svelte |
+| <a href="https://svelte.dev/repl/385110a54cc34e5ba86cad2eeb18f7b8" target="_blank">Svelte: Panel with Draggable Separator</a> | Svelte, Layout |
+| <a href="https://stackblitz.com/edit/panel-with-draggable-separator" target="_blank">Vanilla: Panel with Draggable Separator</a> | HTML, Layout |
+| <a href="https://stackblitz.com/edit/svelte-navigate-between-component" target="_blank">Svelte: Navigate between Component</a> | Svelte |
+| <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple `intro` and `outro` Sample in @clack/prompts</a> | CLI, Node.js |
+| <a href="https://stackblitz.com/edit/node-get-version" target="_blank">How to Get Node.js Version</a> | Node.js |
+| <a href="https://stackblitz.com/edit/alpinejs-demo-store-reactivity" target="_blank">Alpine.js: Using Store and Reactivity (using ESM module import)</a> | Alpine.js |
 
 | YouTube | Topic |
 |:-|:-|
