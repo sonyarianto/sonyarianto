@@ -54,7 +54,8 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/fluent-ui-mix-match-with-tailwind-css" target="_blank">Mix match MS Fluent UI 2 Web Components with Tailwind CSS without Conflict</a> | Web Components, Tailwind CSS |
 | <a href="https://svelte.dev/repl/317e16c270b84d2dba580f8a19445c92" target="_blank">Svelte: Fluent UI 2 TreeView Web Components Sample with Dynamic Data (single root)</a> | Web Components, Svelte |
 | <a href="https://svelte.dev/repl/385110a54cc34e5ba86cad2eeb18f7b8" target="_blank">Svelte: Panel with Draggable Separator</a> | Svelte, Layout |
-| <a href="https://stackblitz.com/edit/panel-with-draggable-separator" target="_blank">Vanilla: Panel with Draggable Separator</a> | HTML, Layout |
+| <a href="https://stackblitz.com/edit/panel-with-draggable-separator" target="_blank">Vanilla: Panel with Draggable Separator</a> | HTML, Layout, JavaScript |
+| <a href="https://stackblitz.com/edit/vanilla-draggable-with-requestanimationframe" target="_blank">Vanilla: Panel with Draggable Separator (using requestAnimationFrame)</a> | HTML, Layout, JavaScript |
 | <a href="https://stackblitz.com/edit/svelte-navigate-between-component" target="_blank">Svelte: Navigate between Component</a> | Svelte |
 | <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple `intro` and `outro` Sample in @clack/prompts</a> | CLI, Node.js |
 | <a href="https://stackblitz.com/edit/node-get-version" target="_blank">How to Get Node.js Version</a> | Node.js |
