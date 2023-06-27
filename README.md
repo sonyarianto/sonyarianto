@@ -60,6 +60,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://stackblitz.com/edit/clack-prompts-sample-intro-and-outro" target="_blank">Simple `intro` and `outro` Sample in @clack/prompts</a> | CLI, Node.js |
 | <a href="https://stackblitz.com/edit/node-get-version" target="_blank">How to Get Node.js Version</a> | Node.js |
 | <a href="https://stackblitz.com/edit/alpinejs-demo-store-reactivity" target="_blank">Alpine.js: Using Store and Reactivity (using ESM module import)</a> | Alpine.js |
+| <a href="https://github.com/sonyarianto/sveltekit-monaco-editor" target="_blank">Integrate Monaco Editor in SvelteKit</a> | SvelteKit, Monaco Editor |
 
 | YouTube | Topic |
 |:-|:-|
