@@ -35,6 +35,11 @@ Some open source initiative from me.
 
 Good for inspiration and ready to extend to fit your needs.
 
+| YouTube | Topic |
+|:-|:-|
+| <a href="https://youtube.com/@bljdev">BLJ</a> | In English, various topics, mostly in simple things |
+| <a href="https://youtube.com/@adayangtanya">ada yang tanya</a> | In Bahasa Indonesia, various topics, mostly in simple things |
+
 | Title | Topic |
 |:-|:-|
 | <a href="https://github.com/sonyarianto/react-without-buildsteps" target="_blank">React without Build Steps</a> | JavaScript, React |
@@ -62,11 +67,6 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://stackblitz.com/edit/alpinejs-demo-store-reactivity" target="_blank">Alpine.js: Using Store and Reactivity (using ESM module import)</a> | Alpine.js |
 | <a href="https://github.com/sonyarianto/sveltekit-monaco-editor" target="_blank">Integrate Monaco Editor in SvelteKit</a> | SvelteKit, Monaco Editor |
 | <a href="https://stackblitz.com/edit/vanilla-monaco-editor-on-cdn" target="_blank">Monaco Editor using CDN, Simple and Fast</a> | Monaco Editor, CDN |
-
-| YouTube | Topic |
-|:-|:-|
-| <a href="https://youtube.com/@bljdev">BLJ</a> | In english, various topics, mostly in simple things |
-| <a href="https://youtube.com/@adayangtanya">ada yang tanya</a> | In Bahasa Indonesia, various topics, mostly in simple things |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
