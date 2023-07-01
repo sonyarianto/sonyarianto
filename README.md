@@ -36,10 +36,11 @@ Some open source initiative from me.
 
 Good for inspiration and ready to extend to fit your needs.
 
-| YouTube | Topic |
-|:-|:-|
-| <a href="https://youtube.com/@bljdev">BLJ</a> | In English, various topics, mostly in simple things |
-| <a href="https://youtube.com/@adayangtanya">ada yang tanya</a> | In Bahasa Indonesia, various topics, mostly in simple things |
+| Title | Type | Topic |
+|:-|:-|:-|
+| <a href="https://youtube.com/@bljdev">BLJ</a> | YouTube | In English, various topics, mostly in simple things |
+| <a href="https://youtube.com/@adayangtanya">ada yang tanya</a> | YouTube | In Bahasa Indonesia, various topics, mostly in simple things |
+| <a href="https://gist.github.com/sonyarianto">Sony AK Gist</a> | GitHub Gist | Some random knowledge from the past |
 
 | Title | Topic |
 |:-|:-|
