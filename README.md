@@ -30,6 +30,7 @@ Some open source initiative from me.
 | <a href="https://npmjs.com/package/jogja" target="_blank">jogja</a> | npm | <a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a> | `npm i -g jogja` |
 | <a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a> | npm | <a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a> | `npm i -g sshmgr` |
 | <a href="https://npmjs.com/package/dauh" target="_blank">dauh</a> | npm | <a href="https://npmjs.com/package/dauh" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/dauh" alt=""/></a> | `npm i -g dauh` |
+| <a href="https://npmjs.com/package/sikat" target="_blank">sikat</a> | npm | <a href="https://npmjs.com/package/sikat" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sikat" alt=""/></a> | `npm i -g sikat` |
 
 #### Educational Material
 
