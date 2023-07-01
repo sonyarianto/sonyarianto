@@ -76,6 +76,7 @@ Support me to develop more open source software or educational material through:
 
 - GitHub Sponsor https://github.com/sponsors/sonyarianto
 - PayPal https://paypal.me/sonyarianto
+- Nih Buat Jajan (for Indonesian) https://www.nihbuatjajan.com/sonyarianto
 
 --<br>
 Best regards,<br>
