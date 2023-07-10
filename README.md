@@ -1,8 +1,8 @@
 <a href="https://sony-ak.com" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=sonyarianto&color=blueviolet&style=flat">
 </a>
-<a href="https://discord.gg/rGkMyK5Z" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/discord/1089563520988893306">
+<a href="https://discord.gg/Q6bMaUcq" target="_blank">
+  <img alt="Discord" src="https://img.shields.io/discord/1089563522100375604">
 </a>
 <a href="https://github.com/sponsors/sonyarianto" target="_blank">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/sonyarianto">
