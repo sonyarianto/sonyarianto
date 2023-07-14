@@ -71,7 +71,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/sveltekit-monaco-editor" target="_blank">Integrate Monaco Editor in SvelteKit</a> | SvelteKit, Monaco Editor |
 | <a href="https://github.com/sonyarianto/monaco-editor-cdn" target="_blank">Monaco Editor using CDN, Simple and Fast</a> | Monaco Editor, CDN |
 | <a href="https://github.com/sonyarianto/jquery-redux-reactivity-state-management" target="_blank">jQuery with Redux for State Management and Reactivity</a> | jQuery, Redux |
-| <a href="https://svelte.dev/repl/b714245b69694ae0891a934b2cdfe028" target="_blank">Monaco Editor on Svelte REPL using CDN</a> | Monaco Editor, Svelte, CDN |
+| <a href="https://svelte.dev/repl/b714245b69694ae0891a934b2cdfe028" target="_blank">Monaco Editor on Svelte REPL using CDN (dynamic load)</a> | Monaco Editor, Svelte, CDN |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
