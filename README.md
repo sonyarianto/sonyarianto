@@ -83,6 +83,7 @@ Support me to develop more open source software or educational material through:
 - PayPal https://paypal.me/sonyarianto
 - Buy Me a Coffee https://buymeacoffee.com/sonyarianto
 - Ko-fi https://ko-fi.com/sonyarianto
+- Patreon https://patreon.com/sonyarianto
 - Nih Buat Jajan (for Indonesian) https://nihbuatjajan.com/sonyarianto
 - Trakteer (for Indonesian) https://trakteer.id/sonyarianto/tip
 
