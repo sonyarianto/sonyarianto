@@ -87,6 +87,7 @@ Support me to develop more open source software or educational material through:
 - Patreon https://patreon.com/sonyarianto
 - Nih Buat Jajan (for Indonesian) https://nihbuatjajan.com/sonyarianto
 - Trakteer (for Indonesian) https://trakteer.id/sonyarianto/tip
+- Saweria (for Indonesian) https://saweria.co/sonyarianto
 
 --<br>
 Best regards,<br>
