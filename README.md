@@ -74,7 +74,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/b714245b69694ae0891a934b2cdfe028" target="_blank">Monaco Editor on Svelte REPL using CDN (dynamic load)</a> | Monaco Editor, Svelte, CDN |
 | <a href="https://svelte.dev/repl/1ae0d9a068034a1c8324e2e9ea7346ef" target="_blank">Tooltip using Floating UI and Svelte</a> | Floating UI, Svelte |
 | <a href="https://svelte.dev/repl/daccadc2ef2544e3b95f5bf6215716c6" target="_blank">Popover using Floating UI and Svelte</a> | Floating UI, Svelte |
-| <a href="https://svelte.dev/repl/c5262348f5d64492aa0b19ac48bf88f1" target="_blank">Destroy and Re-assign Component Programatically in Svelte</a> | Svelte |
+| <a href="https://svelte.dev/repl/c5262348f5d64492aa0b19ac48bf88f1" target="_blank">Assign and Re-assign Component for <svelte:component /></a> | Svelte |
 | <a href="https://svelte.dev/repl/0e8f57ece3094642ad2c84ca4f2420be" target="_blank">Using Svelte Store is Insanely Easy</a> | Svelte |
 
 #### Stats
