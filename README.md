@@ -78,6 +78,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/0e8f57ece3094642ad2c84ca4f2420be" target="_blank">Using Svelte Store is Insanely Easy</a> | Svelte |
 | <a href="https://svelte.dev/repl/09e8928d1de545a58dcb89f2073898ef" target="_blank">Destroy and Re-mount component programmatically in Svelte</a> | Svelte |
 | <a href="https://svelte.dev/repl/f9dffdd0044c49faa80d2295a4b8fd55" target="_blank">How to fill schedule range on existing array of objects</a> | JavaScript |
+| <a href="https://github.com/sonyarianto/playwright-using-external-chrome" target="_blank">Playwright with External Chrome (Chrome for Testing) | Playwright, JavaScript |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
