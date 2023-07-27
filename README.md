@@ -82,6 +82,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/1fbbcb7428334cd98fbb783300d4a16f" target="_blank">Derived Store in Svelte Now Very Easy</a> | Svelte |
 | <a href="https://svelte.dev/repl/613aa6f30ad34fb7a973105a6b759d17" target="_blank">Props Passing with Steroids using setContext and getContext</a> | Svelte |
 | <a href="https://svelte.dev/repl/7af5ee5f0079468e869c0c7f8d2ea91c" target="_blank">Class Binding in Svelte</a> | Svelte |
+| <a href="https://svelte.dev/repl/80fd626c6b2243bd972a78026f27e27f" target="_blank">Sample of Dynamic Load of JavaScript External Script</a> | JavaScript |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
