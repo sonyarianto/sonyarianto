@@ -84,6 +84,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/7af5ee5f0079468e869c0c7f8d2ea91c" target="_blank">Class Binding in Svelte</a> | Svelte |
 | <a href="https://svelte.dev/repl/80fd626c6b2243bd972a78026f27e27f" target="_blank">Sample of Dynamic Load of JavaScript External Script</a> | JavaScript |
 | <a href="https://svelte.dev/repl/28a3f27aa18b414ea90b2fc251fabdcf" target="_blank">Demo of Split Pane in Svelte</a> | Svelte |
+| <a href="https://svelte.dev/repl/d208d02e9e6045e6bba043eec8747f22" target="_blank">Demo of Fuzzy Search with fuse.js</a> | JavaScript |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
