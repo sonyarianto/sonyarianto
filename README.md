@@ -90,7 +90,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/4c060f5b7bea4a27a87ec168f67e1184" target="_blank">Passing a Component via Props</a> | Svelte |
 | <a href="https://github.com/sonyarianto/hello-world" target="_blank">Hello World in Several Language via Docker</a> | Docker |
 | <a href="https://svelte.dev/repl/407c56625ec44f97b128ef81576a8c1a" target="_blank">Compress and Uncompress Data in JS using pako</a> | JavaScript |
-| <a href="https://svelte.dev/repl/507c0b74e0764ac59b40094496eab69f" target="_blank">Sample usage of feather-icons in Svelte</a> | Svelte, JavaScript |
+| <a href="https://svelte.dev/repl/507c0b74e0764ac59b40094496eab69f" target="_blank">Sample Usage of feather-icons in Svelte</a> | Svelte, JavaScript |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
