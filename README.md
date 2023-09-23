@@ -41,7 +41,6 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://youtube.com/@bljdev" target="_blank">BLJ</a> | YouTube | In English, various topics, mostly in simple things |
 | <a href="https://youtube.com/@adayangtanya" target="_blank">ada yang tanya</a> | YouTube | In Bahasa Indonesia, various topics, mostly in simple things |
 | <a href="https://gist.github.com/sonyarianto" target="_blank">Sony AK Gist</a> | GitHub Gist | Some random knowledge from the past |
-| <a href="https://dev.to/sonyarianto" target="_blank">Sony AK DEV</a> | DEV.to | Some of my writings and notes |
 
 | Title | Topic |
 |:-|:-|
