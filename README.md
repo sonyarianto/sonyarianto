@@ -91,6 +91,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/507c0b74e0764ac59b40094496eab69f" target="_blank">Sample Usage of feather-icons in Svelte</a> | Svelte, JavaScript |
 | <a href="https://svelte.dev/repl/2c6351424e1c40749b228c0481284fb2" target="_blank">How to Handle Long Text with Ellipsis when Already Two Lines</a> | CSS |
 | <a href="https://svelte.dev/repl/5cea11c6684648f3908fe3a34387acf2" target="_blank">Implicit Promise Sample when Using Async on a Function</a> | JavaScript |
+| <a href="https://svelte.dev/repl/96347ad8075647da8d168f4f64de503c" target="_blank">Demo of canvas-confetti package</a> | JavaScript |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
