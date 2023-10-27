@@ -92,6 +92,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/2c6351424e1c40749b228c0481284fb2" target="_blank">How to Handle Long Text with Ellipsis when Already Two Lines</a> | CSS |
 | <a href="https://svelte.dev/repl/5cea11c6684648f3908fe3a34387acf2" target="_blank">Implicit Promise Sample when Using Async on a Function</a> | JavaScript |
 | <a href="https://svelte.dev/repl/96347ad8075647da8d168f4f64de503c" target="_blank">Demo of canvas-confetti package</a> | JavaScript |
+| <a href="https://svelte.dev/repl/1ea764b4b16b42179d38d6cb2f686f44" target="_blank">Demo of passing props to a component as an object</a> | Svelte, JavaScript |
 
 #### Stats
 ![](https://github-readme-stats-ten-gilt.vercel.app/api?username=sonyarianto&show_icons=true&count_private=true&theme=)
