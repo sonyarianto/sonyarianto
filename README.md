@@ -95,6 +95,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://svelte.dev/repl/1ea764b4b16b42179d38d6cb2f686f44" target="_blank">Demo of passing props to a component as an object</a> | Svelte, JavaScript |
 | <a href="https://play.tailwindcss.com/hM8GQd1imV?layout=horizontal" target="_blank">Demo of simple marquee</a> | CSS |
 | <a href="https://play.tailwindcss.com/ZwMlFj9Lf8" target="_blank">Demo of simple apps selector</a> | CSS |
+| <a href="https://play.tailwindcss.com/pzRpwJn3PJ" target="_blank">Demo of simple marquee (images)</a> | CSS |
 
 
 #### Stats
