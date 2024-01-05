@@ -96,6 +96,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://play.tailwindcss.com/hM8GQd1imV?layout=horizontal" target="_blank">Demo of simple marquee</a> | CSS |
 | <a href="https://play.tailwindcss.com/ZwMlFj9Lf8" target="_blank">Demo of simple apps selector</a> | CSS |
 | <a href="https://play.tailwindcss.com/pzRpwJn3PJ" target="_blank">Demo of simple marquee (images)</a> | CSS |
+| <a href="https://svelte.dev/repl/7eb4b9caff124e63a40586f3b157a190" target="_blank">Demo of (.) Notation on Component</a> | Svelte |
 
 
 #### Stats
