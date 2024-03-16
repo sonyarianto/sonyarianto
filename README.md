@@ -95,6 +95,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://play.tailwindcss.com/pzRpwJn3PJ" target="_blank">Demo of Simple Marquee (images)</a> | CSS |
 | <a href="https://svelte.dev/repl/7eb4b9caff124e63a40586f3b157a190" target="_blank">Demo of (.) Notation on Component</a> | Svelte |
 | <a href="https://svelte.dev/repl/315e6a36603445a084ec6e583f4365b5" target="_blank">Demo of Leaflet with OSM</a> | Svelte |
+| <a href="https://svelte.dev/repl/334bfc098bef435387382ecde7371b13" target="_blank">Demo of svelte-intersection-observer</a> | Svelte |
 
 
 #### Stats
