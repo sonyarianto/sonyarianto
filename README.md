@@ -99,7 +99,8 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/berkarat" target="_blank">Some Rust examples called berkarat</a> | Rust |
 | <a href="https://github.com/sonyarianto/karatan" target="_blank">API template with Rust</a> | Rust |
 | <a href="https://github.com/sonyarianto/php-on-vercel" target="_blank">Quick sample of PHP on Vercel</a> | PHP |
-| <a href="https://github.com/sonyarianto/sveltekit-inspect-parts" target="_blank">Learn SvelteKit code that runs first</a> | SvelteKit |
+| <a href="https://github.com/sonyarianto/sveltekit-inspect-parts" target="_blank">Learn SvelteKit Code that Runs First</a> | SvelteKit |
+| <a href="https://svelte.dev/repl/deaf67a6397141759676d0b458a6d76c" target="_blank">How to Get Zeno.FM stream metadata using SSE API</a> | Svelte |
 
 
 #### Stats
