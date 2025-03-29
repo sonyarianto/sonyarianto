@@ -1,10 +1,8 @@
 <a href="https://github.com/sonyarianto" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=sonyarianto&color=blueviolet&style=flat">
-</a>
-<a href="https://github.com/sponsors/sonyarianto" target="_blank">
+</a><a href="https://github.com/sponsors/sonyarianto" target="_blank">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/sonyarianto">
-</a>
-<a href="https://youtube.com/@sonyarianto" target="_blank">
+</a><a href="https://youtube.com/@sonyarianto" target="_blank">
   <img alt="Sony AK" src="https://img.shields.io/youtube/channel/views/UCtDyeEcsgNAWPCanVhbDatg?style=social&label=YouTube">
 </a>
 
