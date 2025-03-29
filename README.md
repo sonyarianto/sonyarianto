@@ -5,7 +5,7 @@
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/sonyarianto">
 </a>
 <a href="https://youtube.com/@sonyarianto" target="_blank">
-  <img alt="BLJ" src="https://img.shields.io/youtube/channel/views/UCTgD0-13PPQux8zZ6UQTYLA?style=social&label=YouTube">
+  <img alt="Sony AK" src="https://img.shields.io/youtube/channel/views/UCtDyeEcsgNAWPCanVhbDatg?style=social&label=YouTube">
 </a>
 
 #### Overview
