@@ -96,6 +96,7 @@ Good for inspiration and ready to extend to fit your needs.
 | <a href="https://github.com/sonyarianto/php-on-vercel" target="_blank">Quick sample of PHP on Vercel</a> | PHP |
 | <a href="https://github.com/sonyarianto/sveltekit-inspect-parts" target="_blank">Learn SvelteKit Code that Runs First</a> | SvelteKit |
 | <a href="https://svelte.dev/repl/deaf67a6397141759676d0b458a6d76c" target="_blank">How to Get Zeno.FM stream metadata using SSE API</a> | Svelte |
+| <a href="https://svelte.dev/playground/b7be063d1e974865b599f406d1c0a9e0" target="_blank">The difference between named export and default export behaviour in JavaScript</a> | Svelte |
 
 
 #### Stats
