@@ -23,13 +23,6 @@ Some open source initiative from me.
 
 #### Educational Material
 
-Good for inspiration and ready to extend to fit your needs.
-
-| Title | Type | Topic |
-|:-|:-|:-|
-| <a href="https://youtube.com/@bljdev" target="_blank">BLJ</a> | YouTube | In English, various topics, mostly in simple things |
-| <a href="https://youtube.com/@adayangtanya" target="_blank">ada yang tanya</a> | YouTube | In Bahasa Indonesia, various topics, mostly in simple things |
-
 | Title | Topic |
 |:-|:-|
 | <a href="https://github.com/sonyarianto/react-without-buildsteps" target="_blank">React without Build Steps</a> | JavaScript, React |
