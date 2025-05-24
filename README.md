@@ -8,7 +8,7 @@
 
 #### Overview
 
-Member of Technical Staff.
+Member of Technical Staff & Technology Curator.
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
