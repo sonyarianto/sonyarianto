@@ -8,7 +8,7 @@
 
 #### Overview
 
-Member of Technical Staff
+Member of Technical Staff & AI Navigator
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
