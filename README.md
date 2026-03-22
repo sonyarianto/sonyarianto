@@ -8,7 +8,7 @@
 
 #### Overview
 
-Member of Technical Staff & AI Exploitation Manager
+AI Exploitation Manager
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
