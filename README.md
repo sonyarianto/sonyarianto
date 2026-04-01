@@ -8,7 +8,7 @@
 
 #### Overview
 
-AI Exploitation Manager
+Senior Software Engineer & AI Navigator
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
