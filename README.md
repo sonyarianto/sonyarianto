@@ -8,7 +8,7 @@
 
 #### Overview
 
-Senior Software Engineer & AI Navigator
+Software Engineer, Directing AI
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
