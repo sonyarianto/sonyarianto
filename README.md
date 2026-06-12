@@ -8,7 +8,7 @@
 
 #### Overview
 
-Software Engineer, Directing AI
+Communication Engineer, Directing AI
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
