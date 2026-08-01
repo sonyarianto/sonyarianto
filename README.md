@@ -16,15 +16,15 @@ Keep learning, stay relevant, relevancy increases value. Comfortable with being 
 
 Some open source initiative from me.
 
-|Name|Type|Notes|Install|
-|:-|:-|:-|:-|
-|<a href="https://github.com/sonyarianto/santui" target="_blank">santui</a>|repository|Your terminal home base.|`npm i -g santui`|
-|<a href="https://github.com/sonyarianto/ngalir" target="_blank">ngalir</a>|repository|Flow automation engine.|`curl -sSL https://raw.githubusercontent.com/sonyarianto/ngalir/main/scripts/install.sh \| bash`|
-|<a href="https://github.com/sonyarianto/wakawiki" target="_blank">wakawiki</a>|repository|Agent documentation CLI.|-|
-|<a href="https://github.com/sonyarianto/miskin" target="_blank">miskin</a>|repository|Save AI tokens across providers.|-|
-|<a href="https://github.com/sonyarianto/larastvel" target="_blank">larastvel</a>|repository|Rust web framework inspired by Laravel.|-|
-|<a href="https://npmjs.com/package/jogja" target="_blank">jogja</a>|npm package|<a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a>|`npm i -g jogja`|
-|<a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a>|npm package|<a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a>|`npm i -g sshmgr`|
+|Name|Notes|Install|
+|:-|:-|:-|
+|<a href="https://github.com/sonyarianto/santui" target="_blank">santui</a>|Your terminal home base.|`npm i -g santui`|
+|<a href="https://github.com/sonyarianto/ngalir" target="_blank">ngalir</a>|Flow automation engine.|`curl -sSL https://raw.githubusercontent.com/sonyarianto/ngalir/main/scripts/install.sh \| bash`|
+|<a href="https://github.com/sonyarianto/wakawiki" target="_blank">wakawiki</a>|Agent documentation CLI.|-|
+|<a href="https://github.com/sonyarianto/miskin" target="_blank">miskin</a>|Save AI tokens across providers.|-|
+|<a href="https://github.com/sonyarianto/larastvel" target="_blank">larastvel</a>|Rust web framework inspired by Laravel.|-|
+|<a href="https://npmjs.com/package/jogja" target="_blank">jogja</a>|<a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a>|`npm i -g jogja`|
+|<a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a>|<a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a>|`npm i -g sshmgr`|
 
 #### Products
 
