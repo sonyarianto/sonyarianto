@@ -12,23 +12,16 @@ Communication Engineer, Directing AI
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
-#### Recent Projects
-
-Recent open source projects I'm working on.
-
-|Name|Language|Notes|Stars|
-|:-|:-|:-|:-|
-|<a href="https://github.com/sonyarianto/santui" target="_blank">santui</a>|Rust|Your terminal home base — a modern TUI plugin launcher for your daily workflow.|<a href="https://github.com/sonyarianto/santui" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/santui" alt=""/></a>|
-|<a href="https://github.com/sonyarianto/wakawiki" target="_blank">wakawiki</a>|Rust|A CLI that writes and maintains agent documentation for your codebase.|<a href="https://github.com/sonyarianto/wakawiki" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/wakawiki" alt=""/></a>|
-|<a href="https://github.com/sonyarianto/miskin" target="_blank">miskin</a>|AI|Save AI tokens across providers.|<a href="https://github.com/sonyarianto/miskin" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/miskin" alt=""/></a>|
-|<a href="https://github.com/sonyarianto/larastvel" target="_blank">larastvel</a>|Rust|Rust based web framework inspired by Laravel.|<a href="https://github.com/sonyarianto/larastvel" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/larastvel" alt=""/></a>|
-
 #### Open Source
 
 Some open source initiative from me.
 
 |Name|Type|Notes|Install|
 |:-|:-|:-|:-|
+|<a href="https://github.com/sonyarianto/santui" target="_blank">santui</a>|repository|Your terminal home base — a modern TUI plugin launcher for your daily workflow. <a href="https://github.com/sonyarianto/santui" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/santui" alt=""/></a>|`npm i -g santui`|
+|<a href="https://github.com/sonyarianto/wakawiki" target="_blank">wakawiki</a>|repository|A CLI that writes and maintains agent documentation for your codebase. <a href="https://github.com/sonyarianto/wakawiki" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/wakawiki" alt=""/></a>|-|
+|<a href="https://github.com/sonyarianto/miskin" target="_blank">miskin</a>|repository|Save AI tokens across providers. <a href="https://github.com/sonyarianto/miskin" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/miskin" alt=""/></a>|-|
+|<a href="https://github.com/sonyarianto/larastvel" target="_blank">larastvel</a>|repository|Rust based web framework inspired by Laravel. <a href="https://github.com/sonyarianto/larastvel" target="_blank"><img align="left" alt="stars" src="https://img.shields.io/github/stars/sonyarianto/larastvel" alt=""/></a>|-|
 |<a href="https://npmjs.com/package/jogja" target="_blank">jogja</a>|npm package|<a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a>|`npm i -g jogja`|
 |<a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a>|npm package|<a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a>|`npm i -g sshmgr`|
 
