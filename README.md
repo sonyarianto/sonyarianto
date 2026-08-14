@@ -8,7 +8,7 @@
 
 #### Overview
 
-Communication Engineer, Directing AI
+Member of Technical Staff
 
 Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
 
@@ -18,11 +18,12 @@ Some open source initiative from me.
 
 |Name|Notes|Install|
 |:-|:-|:-|
-|<a href="https://github.com/sonyarianto/santui" target="_blank">santui</a>|Your terminal home base.|`npm i -g santui`|
-|<a href="https://github.com/sonyarianto/ngalir" target="_blank">ngalir</a>|Flow automation engine.|`curl -sSL https://raw.githubusercontent.com/sonyarianto/ngalir/main/scripts/install.sh \| bash`|
-|<a href="https://github.com/sonyarianto/wakawiki" target="_blank">wakawiki</a>|Agent documentation CLI.|-|
-|<a href="https://github.com/sonyarianto/miskin" target="_blank">miskin</a>|Save AI tokens across providers.|-|
-|<a href="https://github.com/sonyarianto/larastvel" target="_blank">larastvel</a>|Rust web framework inspired by Laravel.|-|
+|<a href="https://github.com/sonyarianto/santui" target="_blank">Santui</a>|Your terminal home base.|`npm i -g santui`|
+|<a href="https://github.com/sonyarianto/crabsoup" target="_blank">Crabsoup</a>|Streaming engine.|`npm i -g santui`|
+|<a href="https://github.com/sonyarianto/ngalir" target="_blank">Ngalir</a>|Flow automation engine.|`curl -sSL https://raw.githubusercontent.com/sonyarianto/ngalir/main/scripts/install.sh \| bash`|
+|<a href="https://github.com/sonyarianto/wakawiki" target="_blank">WakaWiki</a>|Agent documentation CLI.|-|
+|<a href="https://github.com/sonyarianto/miskin" target="_blank">Miskin</a>|Save AI tokens across providers.|-|
+|<a href="https://github.com/sonyarianto/larastvel" target="_blank">Larastvel</a>|Rust web framework inspired by Laravel.|-|
 |<a href="https://npmjs.com/package/jogja" target="_blank">jogja</a>|<a href="https://npmjs.com/package/jogja" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/jogja" alt=""/></a>|`npm i -g jogja`|
 |<a href="https://npmjs.com/package/sshmgr" target="_blank">sshmgr</a>|<a href="https://npmjs.com/package/sshmgr" target="_blank"><img align="left" alt="npm" src="https://img.shields.io/npm/dt/sshmgr" alt=""/></a>|`npm i -g sshmgr`|
 
