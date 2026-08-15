@@ -10,7 +10,7 @@
 
 Member of Technical Staff
 
-Keep learning, stay relevant, relevancy increases value. Comfortable with being uncomfortable.
+Keep learning, stay relevant, relevancy increases value.
 
 #### Open Source
 
