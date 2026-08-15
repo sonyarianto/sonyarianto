@@ -19,7 +19,7 @@ Some open source initiative from me.
 |Name|Notes|Install|
 |:-|:-|:-|
 |<a href="https://github.com/sonyarianto/santui" target="_blank">Santui</a>|Your terminal home base.|`npm i -g santui`|
-|<a href="https://github.com/sonyarianto/crabsoup" target="_blank">Crabsoup</a>|Streaming engine.|`npm i -g santui`|
+|<a href="https://github.com/sonyarianto/crabsoup" target="_blank">Crabsoup</a>|Streaming engine.|-|
 |<a href="https://github.com/sonyarianto/ngalir" target="_blank">Ngalir</a>|Flow automation engine.|`curl -sSL https://raw.githubusercontent.com/sonyarianto/ngalir/main/scripts/install.sh \| bash`|
 |<a href="https://github.com/sonyarianto/wakawiki" target="_blank">WakaWiki</a>|Agent documentation CLI.|-|
 |<a href="https://github.com/sonyarianto/miskin" target="_blank">Miskin</a>|Save AI tokens across providers.|-|
